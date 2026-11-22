@@ -4,6 +4,8 @@
  * Description: Custom post type "Reviews" with a Swiper.js coverflow slider shortcode.
  * Version: 1.0
  * Author: Mahim Zaman
+ * Plugin URI: https://condixia.com
+ * Author URI: https://mahimzaman.com
  * Text Domain: reviews-coverflow
  */
 
