@@ -1,0 +1,22 @@
+
+.reviews-swiper {
+    width: 100%;
+    padding: 60px 0;
+}
+.swiper-slide {
+    background: #fff;
+    text-align: center;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+    transition: transform 0.3s;
+}
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.swiper-slide h3 {
+    margin: 10px 0;
+    font-size: 1.1rem;
+}
